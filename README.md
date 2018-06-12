@@ -1,6 +1,6 @@
 # Metex
 
-**TODO: Add description**
+Example using Elixir to hit a web weather API with conversion of F or C
 
 ## Installation
 
